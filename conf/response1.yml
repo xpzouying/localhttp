@@ -1,0 +1,5 @@
+response:
+  - head:
+  - body:
+    - type: application/json
+    - data: {"result": "success"}

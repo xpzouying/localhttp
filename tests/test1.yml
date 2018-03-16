@@ -1,0 +1,7 @@
+routers:
+  - router:
+    name: router0
+    file: file0
+  - router:
+    name: router1
+    file: file1

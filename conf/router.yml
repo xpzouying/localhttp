@@ -1,0 +1,7 @@
+routers:
+  - router:
+    uri: uri1
+    response: response1.yml
+  - router:
+    uri: uri2
+    response: response2.yml
